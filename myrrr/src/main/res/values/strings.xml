@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ZoneDemo</string>
+    <string name="request">请求</string>
+
+    <string name="press_twice_exit">再次按返回键退出</string>
+    <string name="exit_directly">直接退出</string>
+
+</resources>

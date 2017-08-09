@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="img_size_width">100dp</dimen>
+    <dimen name="img_size_height">75dp</dimen>
+
+    <dimen name="padding_size_s">4dp</dimen>
+    <dimen name="padding_size_l">8dp</dimen>
+
+</resources>
